@@ -1,4 +1,7 @@
-# generator-nextui [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-nextui [![Dependency Status][daviddm-image]][daviddm-url]
+
+[//]: # ([![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]) 
+
 > Yeoman generator for [OpenDaylight Next UI framework](https://github.com/opendaylight/next)
 
 The generator helps you to get started rapidly with OpenDaylight NeXt UI:
@@ -77,6 +80,9 @@ gulp serve
 *   OpenDayligh NeXt UI: https://github.com/opendaylight/next
 *   Cisco OpenDaylight BGP and PCEP Pathman Apps: https://github.com/CiscoDevNet/Opendaylight-BGP-Pathman-apps
 *   Cisco OpenDaylight Pathman Segment Routing App: https://github.com/CiscoDevNet/pathman-sr
+
+## Todo
+*   npm test for generator-nextui :(
 
 ## License
 
